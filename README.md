@@ -1,0 +1,5 @@
+- Hi, I’m @infinityTheorist
+- I’m interested in developing my programming skills to break into a career in software engineering.
+- I’m currently learning Python, HTML, and SQL.
+- To contact me, emails may be sent to natehone@gmail.com. Phone number will be provided upon request.
+- Fun fact: I used to spend my summers teaching archery at Camp New Fork for the Boy Scouts. While there I also worked on the camp's full sized trebuchet, you can watch a video of it launching a watermelon here: https://youtube.com/shorts/pHtJFI8ss7Y?si=MO_L5fRVekpa5C9d
